@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c99d95be-b366-4a56-b0f1-412c2a2e2b31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/narvasoft/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c99d95be-b366-4a56-b0f1-412c2a2e2b31" name="Changes" comment="Primera version de Ejemplo de Herencia en Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,8 +70,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683076113897</updated>
-      <workItem from="1683076115435" duration="2865000" />
+      <workItem from="1683076115435" duration="3925000" />
     </task>
+    <task id="LOCAL-00001" summary="Primera version de Ejemplo de Herencia en Java">
+      <created>1683079025047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683079025047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primera version de Ejemplo de Herencia en Java">
+      <created>1683079165910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683079165910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera version de Ejemplo de Herencia en Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera version de Ejemplo de Herencia en Java" />
   </component>
 </project>
